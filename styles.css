@@ -12,10 +12,33 @@ body {
 .poto {
     border: 5px solid #0e1da9;
     border-radius: 10px;
-    position: fixed;
-    left: 25%;
-    top: 15%;
-    bottom: 15%;
-    right: 25%;
+    position: relative;
+    left: auto;
+    top: auto;
+    bottom: auto;
+    right: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 100%;
 }
 
+.xd {
+    padding: 50px;
+    box-sizing: border-box;
+    border: 5px solid #0e1da9;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    background-color: rgb(40, 74, 246);
+}
+
+
+h1 {
+  font-family: "Playwrite NO", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
