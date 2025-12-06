@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+.poto {
+    border: 5px solid #0e1da9;
+    border-radius: 10px;
+    position: fixed;
+    left: 25%;
+    top: 15%;
+    bottom: 15%;
+    right: 25%;
+}
+
